@@ -507,7 +507,7 @@ class HomeworkPlatform:
         title_label.pack(pady=(20, 10))
         
         # 版本信息
-        version_label = ctk.CTkLabel(parent, text="版本 2.1", 
+        version_label = ctk.CTkLabel(parent, text="版本 2.2", 
                                     font=ctk.CTkFont(size=18))
         version_label.pack(pady=(0, 30))
         
