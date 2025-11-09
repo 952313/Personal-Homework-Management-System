@@ -1,10 +1,31 @@
 # LICENSE
 
 ## Attribution and Licensing Notice
+### English Declaration (Legally Binding)
 The code in this project is the result of a collaborative process involving iterative guidance, modification, and substantial creative input by the developer working with the DeepSeek AI model. Through a multi-round process from initial version to final release, the developer contributed significant intellectual effort, including but not limited to: requirement specification, debugging, logical optimization, and code refinement.
 
 As the creator of this resultant work, the developer asserts copyright and releases it under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
+**Important Notice Regarding DeepSeek Terms:**
+
+The development process utilized the DeepSeek AI model, and the creator acknowledges and complies with the [DeepSeek Terms of Service](https://www.deepseek.com/terms_of_service). This license grant is made subject to, and is without prejudice to any rights and terms granted by DeepSeek in its Terms of Service regarding the Inputs and Outputs of its services. The licensor of this project makes no representations or warranties regarding the underlying rights of AI-generated content and licenses this work based on the copyright asserted in the final, human-augmented work product.
+
+> **For a human-readable summary of the license terms, please visit:**
+> [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### 中文声明（仅供参考） | Chinese Declaration (For Reference Only)
+本项目代码是通过开发者与 DeepSeek AI 模型进行多轮迭代、指导及修改后产生的合作成果。从初始版本到最终版本的形成过程中，开发者投入了实质性的创造性劳动，包括但不限于：需求明确、调试纠错、逻辑优化及代码重构。
+
+开发者据此对最终作品主张版权，并采用知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议进行发布。
+
+---
+
+**关于 DeepSeek 使用条款的重要声明：**
+
+开发过程使用了 DeepSeek AI 模型，创作者知晓并遵守 [《DeepSeek 使用条款》](https://cdn.deepseek.com/policies/zh-CN/deepseek-terms-of-use.html)。本许可的授予受 DeepSeek 服务条款中关于其服务输入与输出的任何权利和条款的约束，且不影响该等权利和条款。本项目许可方不对 AI 生成内容的底层权利做任何陈述或担保，仅基于其对最终经人工增强的工作成果所主张的版权进行许可。
+
+> **关于 CC BY-NC-SA 4.0 许可协议的人类可读摘要，请访问：**
+> [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
 ## Attribution-NonCommercial-ShareAlike 4.0 International
 
