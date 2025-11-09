@@ -861,7 +861,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 注意：如中英文版本存在歧义，以英文版本为准！
 
 要查看此许可证的副本，请访问：
-https://creativecommons.org/licenses/by-nc-sa/4.0/"""
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"""
         
         text_widget.insert("1.0", CC_license)
         text_widget.configure(state="disabled")  # 设置为只读
