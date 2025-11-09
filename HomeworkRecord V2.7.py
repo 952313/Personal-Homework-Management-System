@@ -1,4 +1,5 @@
 """
+This 2.7 version is a Abandoned, Broken version.
 Copyright (c) 2025 Yang Jincheng
 Licensed under CC BY-NC-SA 4.0
 """
