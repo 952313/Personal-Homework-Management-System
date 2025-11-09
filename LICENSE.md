@@ -11,7 +11,7 @@ As the creator of this resultant work, the developer asserts copyright and relea
 The development process utilized the DeepSeek AI model, and the creator acknowledges and complies with the [DeepSeek Terms of Service](https://www.deepseek.com/terms_of_service). This license grant is made subject to, and is without prejudice to any rights and terms granted by DeepSeek in its Terms of Service regarding the Inputs and Outputs of its services. The licensor of this project makes no representations or warranties regarding the underlying rights of AI-generated content and licenses this work based on the copyright asserted in the final, human-augmented work product.
 
 > **For a human-readable summary of the license terms, please visit:**
-> [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ### 中文声明（仅供参考） | Chinese Declaration (For Reference Only)
 本项目代码是通过开发者与 DeepSeek AI 模型进行多轮迭代、指导及修改后产生的合作成果。从初始版本到最终版本的形成过程中，开发者投入了实质性的创造性劳动，包括但不限于：需求明确、调试纠错、逻辑优化及代码重构。
