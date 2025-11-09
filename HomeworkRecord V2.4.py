@@ -852,7 +852,8 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-
+Deed:
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 版权所有 (c) 2025 杨锦程
 
@@ -861,7 +862,9 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 注意：如中英文版本存在歧义，以英文版本为准！
 
 要查看此许可证的副本，请访问：
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"""
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
+摘要：
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans"""
         
         text_widget.insert("1.0", CC_license)
         text_widget.configure(state="disabled")  # 设置为只读
