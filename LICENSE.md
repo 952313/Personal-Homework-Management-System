@@ -1,6 +1,12 @@
-Attribution-NonCommercial-ShareAlike 4.0 International
+# LICENSE
 
-=======================================================================
+## Attribution and Licensing Notice
+The code in this project is the result of a collaborative process involving iterative guidance, modification, and substantial creative input by the developer working with the DeepSeek AI model. Through a multi-round process from initial version to final release, the developer contributed significant intellectual effort, including but not limited to: requirement specification, debugging, logical optimization, and code refinement.
+
+As the creator of this resultant work, the developer asserts copyright and releases it under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+## Attribution-NonCommercial-ShareAlike 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
