@@ -1,6 +1,7 @@
 # Personal Homework Management System
 
 一个由学生开发的作业管理系统，帮助跟踪作业截止日期，减少逾期风险。
+项目地址：https://github.com/952313/Personal-Homework-Management-System/
 
 ## ✨ 功能特点
 
@@ -17,7 +18,7 @@
 - 修复了加载不了字号的问题
 - 该问题是由于先创建窗口，后读取数据导致的
 - 我们改为先读取数据，后创建窗口
-- 注意：2.9使用2。8改版，2.8.1的版本内容不在2.9中
+- 注意：2.9使用2.8改版，2.8.1的版本内容不在2.9中
 
 ### Version 2.8.1
 - 增加Delete按钮删除作业
@@ -47,6 +48,7 @@
 ## 📄 许可证
 
 从 2.1 版本起，本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
+详细请看主分支下的LICENSE.md
 
 **这意味着你可以：**
 - ✅ 分享、使用本程序
